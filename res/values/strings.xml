@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello World</string>
+    <string name="app_name">AppBasic</string>
+	<string name="text_version">Version</string>
+</resources>
